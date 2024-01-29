@@ -17,7 +17,7 @@
 
 1. Dopo l'accensione quando ESP8266 non è connesso ad una rete, il LED lampeggerà 2/S
 2. In questa fase viene creata una rete AP ESP_XXXXXX，dove XXXXXX è il MAC del dispositivo.
-3. Connetti il tuo dispositivo all' AP，attendendo l'apertura della pagina di configurazione. In caso contrario aprire il browser e digitare l'indirizzo 192.168.4.1。
+3. Connetti il tuo dispositivo all' AP，attendendo l'apertura della pagina di configurazione. In caso contrario aprire il browser e digitare l'indirizzo 192.168.4.1
 4. Configurazione del WiFi，Scegliere la rete WiFi a cui collegare il dispositivo，inserire la password e premere Save，
 5. Una volta stabilita la connessione, uscirà automaticamente dalla modalità di configurazione di rete e si chiuderà la rete AP ESP_XXXXXX.
 
