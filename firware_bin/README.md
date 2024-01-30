@@ -2,7 +2,7 @@
 
 ### Flash del dispositivo
 <ol>
-<li>Utilizzare header 4 poli con passo da 1,27 mm o du-pont ed interfaccia FTDI-->USB.</li>
+<li>Utilizzare header 4 poli con passo da 1,27 mm o cavi dupont ed interfaccia FTDI-->USB.</li>
 <li>Tienere premuto il pulsante IO0 durante l'accensione dell' ESP8266.</li>
 <li>Rilasciare il pulsante IO0.</li>
 <li> <a href="https://www.espressif.com.cn/zh-hans/support/download/other-tools">ESP Flash </a></li>
