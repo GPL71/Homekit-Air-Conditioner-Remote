@@ -5,7 +5,7 @@
 <li>Utilizzare header 4Poli con passo da 1,27 mm o du-pont ed interfaccia FTDI-->USB.</li>
 <li>Tienere premuto il pulsante IO0 durante l'accensione dell' ESP8266.</li>
 <li>Rilasciare il pulsante IO0.</li>
-<li> <a href="https://www.espressif.com.cn/zh-hans/support/download/other-tools">ESP Flash 下载烧录工具</a></li>
+<li> <a href="https://www.espressif.com.cn/zh-hans/support/download/other-tools">ESP Flash </a></li>
 
 <br>Homekit_AC_Remote_1.0.0.bin，@0x0
 <br>DoNotChgBin is unchecked。
